@@ -11,4 +11,5 @@ This is a list of installed (maybe useful) packages.
 * vim
 * htop
 * perl-modules
+* dialog
 * ...
