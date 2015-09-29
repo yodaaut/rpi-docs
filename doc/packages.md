@@ -14,4 +14,5 @@ This is a list of installed (maybe useful) packages.
 * dialog
 * bash-completion
 * libpam-systemd
+* ssl-cert
 * ...
