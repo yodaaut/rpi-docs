@@ -12,4 +12,6 @@ This is a list of installed (maybe useful) packages.
 * htop
 * perl-modules
 * dialog
+* bash-completion
+* libpam-systemd
 * ...
